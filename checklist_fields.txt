@@ -1,0 +1,5 @@
+File Converter Smoke Test Checklist
+1. Configuration and start with valid parametres
+2. Converting files with valid input parametres(file type, encoding, size)
+3. App stop by Ctrl+C command
+
