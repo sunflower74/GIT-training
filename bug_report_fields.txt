@@ -1,0 +1,10 @@
+Summary
+Description
+Steps
+Reproducibility
+Severity
+Priority
+Symptom
+Attachments
+Comments
+
